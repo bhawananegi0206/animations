@@ -6,6 +6,11 @@
   height: 40vmin;
   pointer-events: none;
 }
+#panorama-container{
+ width: 1080px;
+ height: 500px;
+ margin: 50px auto;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
